@@ -1,2 +1,4 @@
-# animation-GIF-GIMP
-Membuat animasi GIF menggunakan GIMP.
+# Membuat Animasi GIF Menggunakan GIMP
+GIMP atau GNU Image Manipulation Program adalah sebuah perangkat lunak berbasis open source yang biasa digunakan untuk memanipulasi grafik berbasis raster atau bitmap. Dengan kata lain, GIMP biasanya digunakan untuk mengolah gambar atau foto agar tampilannya lebih baik dari aslinya sesuai keinginan. Bahkan dengan teknik dan fitur yang ada di GIMP, foto dapat di-retouch semenarik mungkin, atau bahkan dapat memanipulasi foto pribadi dengan layer yang ada pada GIMP.
+
+Yang menarik dari GIMP selain dapat me-retouch grafik juga mampu membuat animasi sederhana. Ini merupakan salah satu kelebihan dari GIMP sebagai manipulation software dibandingkan software sekelasnya. Animasi yang dihasilkan berformat GIF (Graphics Interchange Format). GIF merupakan format grafis yang paling sering digunakan untuk mendisain website. Walaupun memiliki kombinasi warna yang lebih sedikit dibandingkan dengan JPEG (Joint Photographic Experts Group), tapi GIF mampu menyimpan grafis dengan latar belakang transparan ataupun dalam bentuk animasi sederhana.
